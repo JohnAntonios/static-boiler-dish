@@ -1,6 +1,6 @@
 # static-boiler-dish
 
-A VS Code extension to generate the trinity for a static website.
+A VS Code extension to generate the three musketeers of a static website.
 
 ## Installation (Manual process)
 
