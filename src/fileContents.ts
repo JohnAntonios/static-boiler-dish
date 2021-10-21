@@ -12,7 +12,7 @@ export const htmlFileContent = dedent`
     <title>Document</title>
   </head>
   <body>
-    <!-- Enjoy your day! 😃 -->
+
   </body>
 </html>
 `;
